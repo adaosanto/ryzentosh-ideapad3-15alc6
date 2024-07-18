@@ -43,6 +43,4 @@ Very satisfactory performance. It runs smoothly with Xcode 15, iPhone Simulator,
 
 ## Reference
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [Getting started with OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
